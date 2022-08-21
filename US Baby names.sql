@@ -1,4 +1,4 @@
-# US Baby Name Dataset: 1910 to August 2022
+# US Name Dataset: 1910 to August 2022
 
 # Preview table
 SELECT * 
