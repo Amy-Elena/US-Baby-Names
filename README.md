@@ -1,3 +1,3 @@
 # US-Name Data
-An analysis on *US Baby Name* dataset using SQL.
+An analysis on *US Name* dataset using SQL.
 Dataset used contains data from 1910 to August 2022.
